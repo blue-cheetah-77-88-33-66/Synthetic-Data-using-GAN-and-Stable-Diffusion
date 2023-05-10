@@ -22,8 +22,11 @@ Comparison of the performance of synthetic data in the breast cancer classificat
 <h3>3)Baseline Model Development:</h3>
 
 -Implement a baseline breast cancer classification model without data augmentation techniques.
+
 -Select a suitable classification algorithm, such as Convolutional Neural Networks (CNNs).
+
 -Train the baseline model using the training dataset.
+
 -Evaluate the model's accuracy using the testing dataset and record the results.
 
 <h3>4)Data Augmentation with GANs:</h3>

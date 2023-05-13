@@ -1,17 +1,25 @@
 # Synthetic-Data-using-GAN-and-Stable-Diffusion
 <h2>UNDER CONSTRUCTION</h2>
 
+FID score will be calculated by evaluating the synthetic content datasets created in the CNN model.
+
 Comparison of the performance of synthetic data in the breast cancer classification using GAN and Stable Diffusion
 
 ![overview](https://user-images.githubusercontent.com/117897880/229492793-2b2c3476-8766-4cf9-b214-cf787f3527f2.png)
+
+<h2>Instances of generated images using DCGAN</h2>
+
+Generated images will be here (Loading)
+
+<h2>Instances of generated images using Stable Diffusion</h2>
+
+Generated images will be here (Loading)
 
 <h2>Steps of this project</h2>
  
 <h3>1)Project Overview:</h3>
 
--Define the project's objective: To compare the accuracy of breast cancer classification using the IDC dataset with and without data augmentation techniques, specifically GANs and Stable Diffusion.
-
--Familiarize yourself with breast cancer classification algorithms, GANs, Stable Diffusion, and the IDC dataset.
+-Define the project's objective: To compare the accuracy and FID score of breast cancer classification using the IDC dataset with and without data augmentation techniques, specifically DCGAN and Stable Diffusion.
 
 <h3>2)Dataset Preparation:</h3>
 
@@ -53,7 +61,7 @@ Comparison of the performance of synthetic data in the breast cancer classificat
 
 <h3>6)Result Analysis and Comparison:</h3>
 
--Analyze and compare the accuracy results obtained from the baseline model, GANs-augmented model, and Stable Diffusion-augmented model.
+-Analyze and compare the accuracy and FID score results obtained from the baseline model, DCGAN-augmented model, and Stable Diffusion-augmented model.
 
 -Calculate and compare relevant metrics such as accuracy, precision, recall, and F1 score for each model.
 

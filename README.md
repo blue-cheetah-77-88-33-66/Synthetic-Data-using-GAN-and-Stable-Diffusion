@@ -18,12 +18,18 @@ Comparison of the performance of synthetic data in the breast cancer classificat
 
 <h2>Instances of generated images using DCGAN</h2>
 
-Generated images will be here (Loading)
+Generated images will be here (Loading).
 
+We are conducting this part on my repo named myDcgan_draft.
 <h2>Instances of generated images using Stable Diffusion</h2>
 
-Generated images will be here (Loading)
+Generated images will be here (Loading).
 
+We are conducting this part on my repo named myStableDiff_draft, but this part is private repo because my paper has not been published yet.
+
+<h2>FID scores and results of performance metrics</h2>
+Since it will be used in paper in this section, it will be private until the publication process is over. After the paper is published, all private parts will be accessible.
+ 
 <h2>Steps of this project</h2>
  
 <h3>1)Project Overview:</h3>

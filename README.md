@@ -5,7 +5,7 @@
 The dataset comprised 277,524 image patches of 50 x 50 pixels which were extracted from the WSIs. The WSIs included 198,738 non-IDC (negative) and 78,786 IDC (positive) diagnoses.
 <h2></h2>
 Firstly, we wrote some code by creating "file_directory_changer_and_class_seperater.py" file for changing directory and seperating all classes.
-Secondly, we plan to generate synthetic dataset using genarative models for each classes. Then, we wil combine them real dataset and combine them every classes.
+Secondly, we plan to generate synthetic dataset using genarative models for each class. Then, we wil combine them real dataset and combine them every classes.
 In this way, we will have created all the datasets we will use.
 
 <h2>The next steps are normalization and image size adjustment and use in the classification model.</h2>

@@ -25,9 +25,9 @@ We are conducting this part on my repo named myDcgan_draft.
 
 Generated images will be here (Loading).
 
-We are conducting this part on my repo named myStableDiff_draft, but this part is private repo because my paper has not been published yet.
+We are conducting this part on my repo named myStableDiffusion_draft, but this part is private repo because my paper has not been published yet.
 
-<h2>FID scores and results of performance metrics</h2>
+<h2>FID Scores and Results of Performance Metrics</h2>
 Since it will be used in paper in this section, it will be private until the publication process is over. After the paper is published, all private parts will be accessible.
  
 <h2>Steps of this project</h2>

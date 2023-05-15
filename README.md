@@ -29,7 +29,10 @@ We are conducting this part on my repo named myStableDiffusion_draft, but this p
 
 <h2>FID Scores and Results of Performance Metrics</h2>
 Since it will be used in paper in this section, it will be private until the publication process is over. After the paper is published, all private parts will be accessible.
- 
+ <h1></h1>
+  <h1></h1>
+ <h1></h1>
+
 <h2>Steps of this project</h2>
  
 <h3>1)Project Overview:</h3>

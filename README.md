@@ -29,6 +29,8 @@ Generated images will be here (Loading).
 
 We are reseacrhing some information as data needs to be standardized for Stable Diffusion. We need to set the rules clearly and adjust the parameters as necessary to create a good synthetic dataset. This is perhaps the most crucial part of our work.
 
+If we do not determine them well, the dataset we will create will be meaningless. It lowers Classification performance and is not close to real data. Thus, our work will be meaningless.
+
 We are conducting this part on my repo named myStableDiffusion_draft, but this part is private repo because my paper has not been published yet.
 
 <h2>FID Scores and Results of Performance Metrics</h2>

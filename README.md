@@ -20,10 +20,13 @@ Comparison of the performance of synthetic data in the breast cancer classificat
 
 Generated images will be here (Loading).
 
+Model training trials are carried out
+
 We are conducting this part on my repo named myDcgan_draft.
 <h2>Instances of generated images using Stable Diffusion</h2>
 
 Generated images will be here (Loading).
+We are reseacrhing some information as data needs to be standardized for Stable Diffusion. We need to set the rules clearly and adjust the parameters as necessary to create a good synthetic dataset. This is perhaps the most crucial part of our work.
 
 We are conducting this part on my repo named myStableDiffusion_draft, but this part is private repo because my paper has not been published yet.
 
